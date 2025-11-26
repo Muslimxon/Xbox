@@ -134,6 +134,14 @@
         color: #ffffff;
         font-size: 18px;
     }
+    footer{
+    width: 100%;
+    height: 350px;
+    background-color: black;
+    color: white;
+    padding: 50px 100px;
+    line-height: 40px;
+}
 }
 
  /* Otabek end   */
@@ -148,4 +156,35 @@
 
 
 /* Shohruhbek start  */
+footer{
+    width: 100%;
+    height: 350px;
+    background-color: black;
+    color: white;
+    padding: 50px 100px;
+    line-height: 40px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+h3{
+    color: #7DD42F;
+}
+
+.liniya{
+    width: 100%;
+    height: 1px;
+    margin-top: 20px;
+    background-color: #FFFFFF;
+}
+
+.kichik__yozuv{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+
 /* Shohruhbek end  */
