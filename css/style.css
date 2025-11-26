@@ -163,7 +163,7 @@
 	align-items: center;
 	gap: 25px;
 }
-.card__cards{
+.cardd__cards{
 	width: 320px;
 	height: 420px;
 	background-color: #fff;
@@ -172,28 +172,28 @@
 	margin-top: 55px;
 }
 
-.card__cards:hover{
+.cardd__cards:hover{
 	transform: scale(1.1);
 }
 
-.card__cards--img{
+.cardd__cards--img{
 	width: 318px;
 	height: 180px;
 	border-radius: 4px;
 	margin-bottom: 25px;
 }
-.card__cards--title{
+.cardd__cards--title{
 	font-weight: 400;
 	font-size: 18px;
 	color:  rgba(67, 87, 102, 1);
 }
-.card__cards--paragraf{
+.cardd__cards--paragraf{
 	font-weight: 400;
 	font-size: 21px;
 	color:  rgba(67, 87, 102, 1);
 	padding: 0 30px;
 }
-.card__cards--btn{
+.cardd__cards--btn{
 	padding: 15px 50px;
 	background: rgba(141, 216, 61, 1);
 	color: #fff;
